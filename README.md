@@ -1,2 +1,2 @@
-# SMS-Spam-Detection
-SMS Spam Detection with Python, Flask, HTML and CSS
+# SMS-Message-Spam-Detector
+A simple Flask API to detect spam or ham using Python and sklearn
